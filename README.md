@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **anilyadavcse104@gmail.com**
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/?resumeId=663a1db3f75e1229c07ce66c&profileId=self&templateName=ModernMilestone&fontSize=small](https://resume-builder-test-new.masaischool.com/resume/?resumeId=663a1db3f75e1229c07ce66c&profileId=self&templateName=ModernMilestone&fontSize=small)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
