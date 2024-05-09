@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anil Kumar yadav</h1>
 <h3 align="center">Passionate about automation testing, dedicated to delivering robust solutions, thrive in collaborative environments, keen eye for detail and strong analytical skills, eager to contribute expertise and drive success.Let's connect and achieve goals together!L</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilyadav&label=Profile%20views&color=0e75b6&style=flat" alt="anilyadav" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilyadav&label=Profile%20views&color=0e75b6&style=flat" alt="anilyadav" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilyadav" alt="anilyadav" /></a> </p>
