@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Anil Kumar yadav</h1>
 <h3 align="center">Passionate about automation testing, dedicated to delivering robust solutions, thrive in collaborative environments, keen eye for detail and strong analytical skills, eager to contribute expertise and drive success.Let's connect and achieve goals together!L</h3>
+My Roles and Responsibility in Current organisation are:
+1.Understanding the requirements
+
 <p align="left"> <img src="https://uploads-ssl.webflow.com/5f3acb2672fdcd05b7611500/5f5d1d3a752ad13f411fe15a_shutterstock_1147590977-%20Testing%20(1)%20(2).jpg" alt="anilyadav" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilyadav&label=Profile%20views&color=0e75b6&style=flat" alt="anilyadav" /> </p>
 
