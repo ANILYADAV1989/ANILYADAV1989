@@ -5,12 +5,19 @@
 My Roles and Responsibility in Current organisation are:
 
 1.Understanding the requirements 
+
 2.Identifying the test scenarios
+
 3.Documenting the scenarios
+
 4.Updating Test Cases
+
 5.Sending the Test cases for review
+
 6.Fixing the review commands
+
 7.Test Case execution
+
 8.Participating in sprint planning meeting, impact analysis meeeting and sprint redrospective meeting
 
 <p align="left"> <img src="https://uploads-ssl.webflow.com/5f3acb2672fdcd05b7611500/5f5d1d3a752ad13f411fe15a_shutterstock_1147590977-%20Testing%20(1)%20(2).jpg" alt="anilyadav" /> </p>
